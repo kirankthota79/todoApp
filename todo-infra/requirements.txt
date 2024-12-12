@@ -1,0 +1,12 @@
+aws-cdk-lib==2.172.0
+constructs>=10.0.0,<11.0.0
+# fastapi[all]
+# mangum
+fastapi==0.99.0 
+mangum
+pydantic
+# pydantic>=2.7.0
+# pydantic>=2.5.2
+
+# pydantic==2.7.0
+# pydantic>=2.7.2
